@@ -1,3 +1,52 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11017</md:content-id>  <md:title>Afrikaans Eerste Addisionele Taal Graad 7</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>af</md:language>              <md:uuid>b154d7a0-47d5-4c23-b1c3-0e03a6d1bce1</md:uuid>
-<md:slug>afrikaans-eerste-addisionele-taal-graad-7</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m23682"/>                            <col:module document="m25813"/>                            <col:module document="m23689"/>                            <col:module document="m23694"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m23702"/>                            <col:module document="m23705"/>                            <col:module document="m23708"/>                            <col:module document="m23709"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m23710"/>                            <col:module document="m23711"/>                            <col:module document="m23714"/>                            <col:module document="m23715"/>                            <col:module document="m23716"/>                            <col:module document="m23718"/>                            <col:module document="m23722"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m23724"/>                            <col:module document="m23729"/>                            <col:module document="m23730"/>                            <col:module document="m23731"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11017</md:content-id>
+    <md:title>Afrikaans Eerste Addisionele Taal Graad 7</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>af</md:language>
+    <md:uuid>b154d7a0-47d5-4c23-b1c3-0e03a6d1bce1</md:uuid>
+    <md:slug>afrikaans-eerste-addisionele-taal-graad-7</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m23682"/>
+        <col:module document="m25813"/>
+        <col:module document="m23689"/>
+        <col:module document="m23694"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m23702"/>
+        <col:module document="m23705"/>
+        <col:module document="m23708"/>
+        <col:module document="m23709"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m23710"/>
+        <col:module document="m23711"/>
+        <col:module document="m23714"/>
+        <col:module document="m23715"/>
+        <col:module document="m23716"/>
+        <col:module document="m23718"/>
+        <col:module document="m23722"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m23724"/>
+        <col:module document="m23729"/>
+        <col:module document="m23730"/>
+        <col:module document="m23731"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
